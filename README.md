@@ -53,11 +53,10 @@ This is a real-time chat application built using **Spring Boot** for the back-en
 
 Ensure the following are installed on your system:
 
-- **Node.js**: [Download Node.js](https://nodejs.org/)
-- **Java JDK**: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- **Maven**: [Download Maven](https://maven.apache.org/download.cgi)
-- **MySQL**: [Download MySQL](https://dev.mysql.com/downloads/)
-
+- **Node.js**
+- **Java JDK**
+- **Maven**
+- **MySQL**
 ### Front-end Setup
 
 1. **Clone the repository**:
@@ -87,8 +86,7 @@ The app will be running at http://localhost:5173.
 
  3. Build and run the Spring Boot application:
      mvn spring-boot:run
-    The back-end server will be running at http://localhost:8080.
-
+   
 WebSocket Configuration
 Ensure the WebSocket connection is set up correctly in your React front-end (App.js or relevant file):
 
