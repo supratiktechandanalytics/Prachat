@@ -69,7 +69,7 @@ Ensure the following are installed on your system:
 
 3. Start the React development server:
    npm run dev
-The app will be running at http://localhost:5173.
+
 
    Back-end Setup
 
